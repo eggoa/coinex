@@ -5,6 +5,9 @@ Futures数字货币交易系统
 捐赠致力于更好的交易所
 - BTC/USDT(比特币/USDT)：1aVXpCaHKoRbjEh14WPGMq1NTTejDWWac
 
+- 联系
+  微信/QQ：1351991922
+
 主要技术：
 - 前端：Vue、iView
 - 后端：Spring、SpringData、SpringCloud、SpringBoot
@@ -40,5 +43,4 @@ Futures数字货币交易系统
 - JDK 1.8
 - Vue
 - Zookeeper
-
 
