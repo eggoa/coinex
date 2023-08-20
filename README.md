@@ -13,6 +13,15 @@
 - IOS和Android原生版本。
 
 
+<img src="https://github.com/eggoa/coinex/blob/main/2.jpg"/>
+<br/>
+<img src="https://github.com/eggoa/coinex/blob/main/1.jpg"/>
+<br/>
+<img src="https://github.com/eggoa/coinex/blob/main/01.jpg"/>
+<br/>
+<img src="https://github.com/eggoa/coinex/blob/main/4.jpg"/>
+
+
 1. futures-api
 2. futures-liquidation
 3. futures-base
@@ -22,15 +31,6 @@
 7. futures-gateway
 8. futures-index
 9. futures-matching-liquidation
-
-
-<img src="https://github.com/eggoa/coinex/blob/main/2.jpg"/>
-<br/>
-<img src="https://github.com/eggoa/coinex/blob/main/1.jpg"/>
-<br/>
-<img src="https://github.com/eggoa/coinex/blob/main/01.jpg"/>
-<br/>
-<img src="https://github.com/eggoa/coinex/blob/main/4.jpg"/>
 
 ##  重点业务介绍
 
