@@ -4,6 +4,7 @@
 
 - 联系
   微信/QQ：1351991922
+  Telagram: https://t.me/soooooooooogood
   
 主要技术：
 - 前端：Vue、iView
