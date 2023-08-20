@@ -1,4 +1,6 @@
-<div style="color:red; font-size:20px;"><b>Java版数字货币交易所，内存撮合，高并发</b></div>
+
+<div style="font-color:red; font-size:40px;"><b>Java版数字货币交易所，内存撮合，高并发</b></div>
+
 
 - 联系
   微信/QQ：1351991922
