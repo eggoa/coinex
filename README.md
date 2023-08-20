@@ -1,5 +1,5 @@
 
-<div style="font-color:red; font-size:40px;"><b>Java版数字货币交易所，内存撮合，高并发</b></div>
+<div style="color: red; font-size:40px;"><b><span style="color: red; font-size:40px;">Java版数字货币交易所，内存撮合，高并发</span></b></div>
 
 
 - 联系
